@@ -58,5 +58,5 @@ Rather than requesting a ready-made website in a single command, the development
 ---
 
 ## 6. Live Deployment Links
-* **Live Website URL:** https://Saaho007-Collab.github.io/portfolio/
-* **GitHub Repository URL:** https://github.com/Saaho007-Collab/portfolio/
+* **Live Website URL:** https://chollasidhartha.github.io/portfolio/
+* **GitHub Repository URL:** https://github.com/chollasidhartha/portfolio/
